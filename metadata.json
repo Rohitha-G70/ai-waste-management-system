@@ -1,0 +1,6 @@
+{
+  "name": "SmartWaste AI",
+  "description": "AI-Based Smart Waste Management System for automated waste classification, intelligent recycling recommendations, and smart collection tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
